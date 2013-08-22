@@ -1,2 +1,0 @@
-
-http://playground.arduino.cc/Code/Library

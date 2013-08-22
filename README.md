@@ -4,7 +4,7 @@
 	<title>Readme Webgui Server</title>
 </head>
 <body>
-<h1>Webgui Server Intructions</h1>
+<h1>Webgui Server Instructions</h1>
 
 <h2>Installation</h2>
 <p>You will need to install nodejs to run the webgui server. You can get the last version of nodejs from the <a href="http://nodejs.org/">official website</a>. The 32-bit version will have less problems with some libraries that don't have a good 64-bit support yet.</p>
